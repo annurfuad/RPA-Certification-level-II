@@ -1,0 +1,12 @@
+1668594780195	geckodriver	INFO	Listening on 127.0.0.1:58724
+1668594780666	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58725" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/h1/lqygh2g92t7dzkv538x569sm0000gn/T/rust_mozprofilep3dCVt"
+1668594781285	Marionette	INFO	Marionette enabled
+1668594781457	Marionette	INFO	Listening on port 58736
+Read port: 58736
+WebDriver BiDi listening on ws://127.0.0.1:58725
+1668594781567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/h1/lqygh2g92t7dzkv538x569sm0000gn/T/rust_mozprofilep3dCVt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58725/devtools/browser/f95eef71-1d39-4dda-bece-21dda0425104
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1668594805549	Marionette	INFO	Stopped listening on port 58736
